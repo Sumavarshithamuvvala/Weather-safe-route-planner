@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather Safe</string>
+
+
+        <string name="select_vehicle">Select Vehicle</string>
+        <string name="select_fuel">Select Fuel Type</string>
+
+</resources>
